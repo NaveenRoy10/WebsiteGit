@@ -3,3 +3,6 @@ git and github
 my first message->hello world
 
 this is second day using git
+
+this is third day using git
+
