@@ -6,3 +6,4 @@ this is second day using git
 
 this is third day using git
 
+this commit is from new branch naveen
